@@ -10,8 +10,6 @@ The product exists because Kubernetes is powerful but too low-level for most app
 
 **Evidence:** OpenChoreo describes itself as a developer platform for Kubernetes with development and platform abstractions, Backstage-powered portal, CI/CD, GitOps, observability, and AI agents. Its architecture docs define a multi-plane model covering control, data, workflow, observability, and experience planes.
 
-Sources: [OpenChoreo website](https://openchoreo.dev/), [Architecture](https://openchoreo.dev/docs/overview/architecture/), [GitHub repository](https://github.com/openchoreo/openchoreo), [Changelog](https://openchoreo.dev/docs/changelog/).
-
 ## Target Users
 
 | Persona | Needs | Problems Today | What They Do In OpenChoreo | What Is Abstracted |
