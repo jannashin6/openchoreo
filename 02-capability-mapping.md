@@ -15,15 +15,6 @@ Needed:
 Application -> Deployment -> Environment -> Runtime -> Health -> Cost -> Action
 ```
 
-## Evidence Classification
-
-| Product | Evidence Used | Confidence |
-|---|---|---|
-| OpenChoreo | Official website, docs, GitHub, changelog | High |
-| BuildPiper | Official website and docs | High for public claims |
-| REMS | OpsTree REMS pages plus user-authorized memory/context | Medium-high |
-| SpendSmart | OpsTree SpendSmart page plus user-authorized memory/context | Medium-high |
-
 ## Capability Inventory
 
 ### BuildPiper
@@ -45,11 +36,7 @@ Verified from official BuildPiper sources:
 | Interfaces | BuildPiper UI, BPCTL CLI, Platform API |
 | Integrations | Public site claims 100+ integrations |
 
-Sources: [BuildPiper website](https://buildpiper.io/), [BuildPiper Developers Hub](https://docs.buildpiper.io/), [BuildPiper Architecture](https://www.buildpiper.io/documentation/docs/getting/architecture/), [Secure Pipelines](https://buildpiper.io/secops-secure-pipelines/).
-
 ### REMS
-
-Verified from OpsTree REMS pages and authorized memory/context:
 
 | Area | Capability |
 |---|---|
@@ -62,11 +49,7 @@ Verified from OpsTree REMS pages and authorized memory/context:
 | Remediation | Runbook recommendations and execution workflows |
 | Dashboards | Unified observability views, service explorer, operational dashboards |
 
-Sources: [REMS AI observability article](https://opstree.com/ai-powered-observability-with-rems/), [REMS solution page](https://opstree.com/solutions/rems-ai-powered-observability/).
-
 ### SpendSmart
-
-Verified from OpsTree SpendSmart page and authorized memory/context:
 
 | Area | Capability |
 |---|---|
@@ -79,8 +62,6 @@ Verified from OpsTree SpendSmart page and authorized memory/context:
 | Governance | Tagging policies, approval-based Slack/Teams actions |
 | Reporting | Multi-cloud reporting, CFO/CTO dashboards |
 | Tech foundation | ClickHouse, Grafana, Athena; API-ready integration |
-
-Source: [SpendSmart](https://opstree.com/solutions/spendsmart/).
 
 ## Capability Mapping Table
 
