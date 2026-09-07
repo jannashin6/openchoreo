@@ -44,8 +44,8 @@ Verified from official BuildPiper sources:
 | Telemetry | Metrics, logs, traces via Prometheus, Loki, Tempo, OpenTelemetry |
 | Detection | Alert correlation, anomaly/root-cause investigation |
 | SLOs | SLO, SLI, error budget visibility |
-| Incident response | War rooms, severity classification, role assignments, RCA documentation |
-| RCA | OLLY-powered root cause analysis in plain English |
+| Incident response |severity classification, role assignments, RCA documentation |
+| RCA | SAVVY-powered root cause analysis in plain English |
 | Remediation | Runbook recommendations and execution workflows |
 | Dashboards | Unified observability views, service explorer, operational dashboards |
 
@@ -57,9 +57,7 @@ Verified from official BuildPiper sources:
 | Cost visibility | Spend transparency across AWS, Azure, GCP |
 | Cost allocation | Breakdowns by service, team, environment |
 | Anomaly detection | AI-driven cost anomaly detection |
-| Automation | OpenOps-driven cleanup, scheduling, tagging |
 | Optimization | Rightsizing, idle resource cleanup, schedule recommendations |
-| Governance | Tagging policies, approval-based Slack/Teams actions |
 | Reporting | Multi-cloud reporting, CFO/CTO dashboards |
 | Tech foundation | ClickHouse, Grafana, Athena; API-ready integration |
 
